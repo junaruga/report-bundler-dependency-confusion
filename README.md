@@ -2,7 +2,7 @@
 
 A reproducer for https://github.com/rubygems/rubygems/issues/4694 .
 
-The reproducer store the following gem on the 2 gem servers.
+The reproducer puts the following gems on the 2 gem servers to run on the port 8801 and 8802.
 
 ```
 tmp/
